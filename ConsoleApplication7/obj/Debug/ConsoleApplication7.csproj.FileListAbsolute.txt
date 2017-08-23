@@ -1,0 +1,12 @@
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\agus\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\agus\Documents\Visual Studio 2015\Projects\huruf angka\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\agus\Documents\Visual Studio 2015\Projects\huruf angka\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\agus\Documents\Visual Studio 2015\Projects\huruf angka\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\agus\Documents\Visual Studio 2015\Projects\huruf angka\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\agus\Documents\Visual Studio 2015\Projects\huruf angka\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\agus\Documents\Visual Studio 2015\Projects\huruf angka\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
